@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomSheetExample</string>
+    <string name="add_1_item">Add +1 item</string>
+    <string name="toolbar_example">Toolbar example</string>
+</resources>
